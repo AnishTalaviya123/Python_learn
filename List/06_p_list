@@ -1,0 +1,11 @@
+a = input("Enter the fruits1:")
+b = input("Enter the fruits2:")
+c = input("Enter the fruits3:")
+d = input("Enter the fruits4:")
+e = input("Enter the fruits5:")
+f = input("Enter the fruits6:")
+g = input("Enter the fruits7:")
+
+print(a,b,c,d,e,f,g)
+mylist = [a,b,c,d,e,f,g]
+print(mylist)
